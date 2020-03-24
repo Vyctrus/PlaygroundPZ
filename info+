@@ -1,0 +1,17 @@
+node.js, express
+
+
+npm install --save
+
+npm install -g jshint
+komenda do podpowiedzi--> jshint example.js
+
+npm i -g nodemon--> nodemon automatycznie restartuje server
+uruchomienie-->
+
+set PORT=5000 <--ustalenie domyslnego portu(windows)
+
+
+validation--> npm i joi
+
+korzystanie z postmana
