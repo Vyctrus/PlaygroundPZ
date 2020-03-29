@@ -41,4 +41,4 @@ Structuring Express Aplications
 
 mongod -->wlacza baze
 
-npm i mongoose
+npm i mongoose@5.0.1 --> uzywam mongoDb compass(comunity) do sprawdzania bazy
